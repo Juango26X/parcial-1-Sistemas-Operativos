@@ -1,2 +1,3 @@
 # parcial-1-Sistemas-Operativos
 Juan David Vasquez Pomar
+https://javerianacaliedu-my.sharepoint.com/:v:/g/personal/juango26_javerianacali_edu_co/ETD2wyBNjKBOhk9Lh1J9yT4BlHOCta0pbavlw3Q74LP2yg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EMg3EO
